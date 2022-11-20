@@ -1,7 +1,7 @@
 # Hello Stranger.
 <div style="text-align: right;">
 
-*[Youtube](https://www.youtube.com/channel/UCzh4vimDzLYNjlZ0hMS2TUg) - [Crowdin](https://crowdin.com/profile/mmesek)*
+*[Youtube](https://www.youtube.com/channel/UCzh4vimDzLYNjlZ0hMS2TUg) - [Crowdin](https://crowdin.com/profile/mmesek) - <a rel="me" href="https://mstdn.social/@Mmesek">Mastodon</a>*
 </div>
 
 ---
