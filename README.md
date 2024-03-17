@@ -16,6 +16,8 @@ Programming since late 2015. Python since 2018
 - [RSSReader](https://github.com/Mmesek/RSSReader) - RSS parser sending entries to subscribing webhooks on Discord
 - [MFramework.py](https://github.com/Mmesek/MFramework.py) - Command framework extending mDiscord with database support
 - [mDiscord](https://github.com/Mmesek/mdiscord) - minimal Discord REST API Client with objects & endpoints generated from documentation
+- [Discord Package Summarizer](https://github.com/Mmesek/discord-package-summarizer) - Tool for analyzing user's Discord data
+
 #### Database/SQL
 - [Game Bundle Manager](https://github.com/Mmesek/Game-Bundle-Manager) - Personal tool to keep track of remaining keys from bundles
 - [Database Library](https://github.com/Mmesek/database-library) - Miscellaneous SQL Models for crossreferencing data
@@ -41,11 +43,13 @@ Programming since late 2015. Python since 2018
 
 ## 🤖 Languages
 - 2019-Present - SQL
-- 2019-2021 - Dlang
+- 2019-2021 - D
+- 2019 - Ruby
 - 2018-Present - Python
 - 2018-2019 - HTML, CSS, JavaScript
 - 2015-2017 - C++
 - 2014 - Java
+- 2013 - Lua
 
 ---
 
