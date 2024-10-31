@@ -35,9 +35,9 @@ Programming since late 2015. Python since 2018
 - PostgreSQL/Supabase - Used as a Database for projects above
 - Git - Hello Stranger, nice hub, ain't it?
 - Redis/KeyDB - Used as a cache for MBot.py
-- Docker
-- Github Actions
-- RabbitMQ 
+- Docker - MBot.py runs on a volume in custom built image
+- Github Actions - Auto rebuilding resume pdf
+- RabbitMQ - Queues for exchanging commands between services
 
 ---
 
