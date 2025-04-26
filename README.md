@@ -10,7 +10,7 @@ Programming since late 2015. Python since 2018
 
 ---
 
-## 💻 Projects I've worked on
+## 💻 Some of the Projects I've worked on
 #### Discord Related
 - [MBot.py](https://github.com/Mmesek/MBot.py) - Own Bot made using MFramework, used as Modmail on [Dying Light](https://discord.gg/DyingLight) server
 - [RSSReader](https://github.com/Mmesek/RSSReader) - RSS parser sending entries to subscribing webhooks on Discord
@@ -42,6 +42,7 @@ Programming since late 2015. Python since 2018
 ---
 
 ## 🤖 Languages
+- 2025 - Go
 - 2019-Present - SQL
 - 2019-2021 - D
 - 2019 - Ruby
@@ -54,7 +55,7 @@ Programming since late 2015. Python since 2018
 ---
 
 ## 💬 Contact
-If that's what you *truly* seek here, You can find me on Discord: `@Mmesek` or on Matrix: `@mmesek:matrix.org`
+If that's what you *truly* seek here, You can find me on Discord: [Mmesek](https://discord.com/users/273499695186444289/) or on Matrix: [@mmesek:matrix.org](https://matrix.to/#/@mmesek:matrix.org)
 
 ---
 
