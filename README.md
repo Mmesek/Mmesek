@@ -28,6 +28,14 @@ Programming since late 2015. Python since 2018
 - [mlib](https://github.com/Mmesek/mlib) - Library with utility functions used accross my Python projects
 - [Advent of Code](https://github.com/Mmesek/Advent-of-Code) - My solutions to AoC's puzzles
 
+#### Web-Dev
+- [mEvents](https://github.com/Mmesek/mEvents) - Website to display upcoming live events & sign-up forms
+- [mTheme](https://github.com/Mmesek/Hugo-mTheme) - Theme used on my [website](https://mmesek.github.io/)
+
+#### AI
+- [Audio Transcriber](https://github.com/Mmesek/Audio-Transcriber) - Audiologs transcriber
+- [mUSh](https://github.com/Mmesek/mUSh) - Ultrastar Song creation helper using AI pipelines
+
 ---
 
 ## ⚙ Tech I've played around with
